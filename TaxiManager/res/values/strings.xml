@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaxiManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Phone">電話號碼：</string>
+    <string name="SaveNumber">儲存電話號碼</string>
+    <string name="Driver">司機</string>
+    <string name="Passenger">乘客</string>
+    <string name="Class">使用者類別：</string>
+    <string name="Login">登入</string>
+    <string name="SaveAccount">儲存電話號碼</string>
+    <string name="UnSaveAccount">不儲存電話號碼</string>
+    <string name="NotNumber">請重新輸入電話號碼</string>
+    <string-array name="DriverStatus">
+        <item >計程載客</item>
+        <item >機場接送</item>
+        <item >旅遊包車</item>
+        <item >簡易搬家</item>
+        <item >企業租車</item>
+    </string-array>
+
+</resources>
